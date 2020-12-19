@@ -1,7 +1,5 @@
 ### Hi there, I'm Ziga - The founder of [Rabbit Company LLC][website] 👋
 
-[![Website](img.shields.io/website?label=rabbit-company.com&style=for-the-badge)](https://rabbit-company.com)
-
 ## Programming languages I know:
 
 - HTML
