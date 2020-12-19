@@ -1,6 +1,6 @@
-# Hi there, I'm Ziga - The founder of [Rabbit Company LLC][website] 👋
+## Hi there, I'm Ziga - The founder of [Rabbit Company LLC][website] 👋
 
-## Programming languages I know:
+### Programming languages I know:
 
 - HTML
 - CSS
