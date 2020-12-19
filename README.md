@@ -1,6 +1,6 @@
 ### Hi there, I'm Ziga - The founder of [Rabbit Company LLC][website] 👋
 
-[![Website](img.shields.io/website?label=rabbit-company.com&style=for-the-badge&url=https%3A%2F%2Frabbit-company.com)](https://rabbit-company.com)
+[![Website](img.shields.io/website?label=rabbit-company.com&style=for-the-badge)](https://rabbit-company.com)
 
 ## Programming languages I know:
 
