@@ -8,8 +8,11 @@
 - PHP
 - SQL
 - Java
+- Python
+- GoLang
 - C#
 - C++
+- Bash
 
 ### Connect with me:
 
@@ -34,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="zigazajc007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zigazajc007&show_icons=true&theme=dark&hide_border=true" />
+  <img align="left" alt="zigazajc007's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=zigazajc007&count_private=true&theme=tokyonight&showicons=true" />
 
 </details>
 
