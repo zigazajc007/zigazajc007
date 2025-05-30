@@ -21,4 +21,4 @@ Today, I manage both personal and professional server infrastructures (yes, I lo
 
 ## 📊 GitHub Stats
 
-<img align="left" alt="zigazajc007's GitHub Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zigazajc007&count_private=true&theme=tokyonight&showicons=true&include_orgs=true" />
+<img align="left" alt="zigazajc007's GitHub Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zigazajc007&count_private=true&theme=tokyonight&showicons=true&hide_title=true&include_orgs=true" />
