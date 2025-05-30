@@ -1,47 +1,24 @@
-## Hi there, I'm Ziga - The founder of [Rabbit Company LLC][website] 👋
+## Hi there, I'm Žiga Zajc – Founder of [Rabbit Company](https://rabbit-company.com) 🐇
 
-### Programming languages I know:
+I'm a full-stack developer and open-source enthusiast, passionate about building privacy-focused, self-hostable software. I started programming at age 12 with Minecraft plugins, got into C++ game hacking, then web development – and eventually founded Rabbit Company to deliver robust tools for individuals and businesses.
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- SQL
-- Java
-- Python
-- GoLang
-- C#
-- C++
-- Bash
+Today, I manage both personal and professional server infrastructures (yes, I love Linux), and I’m working toward making a living from my own open-source projects. I still work part-time for an external company, but my long-term goal is to fully focus on Rabbit Company and contribute to the open-source world.
 
-### Connect with me:
+**Everything I build is open-source and privacy-respecting.**
 
-[<img align="left" alt="rabbit-company.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Crazy Rabbit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ziga Zajc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 💻 Tech Stack & Languages
+- Frontend: HTML, CSS, JavaScript, TypeScript
+- Backend: Rust, Go, C#, Java, JavaScript, TypeScript, PHP
+- Databases: SQL (PostgreSQL, MariaDB, MySQL, MSSQL)
+- Scripting: Bash
+- Other: C++, Docker, Linux system administration
 
-<br />
+## 🐧 My Interests
+- Running and maintaining Linux servers (both home & enterprise-grade)
+- Designing self-hostable, scalable cloud-native tools
+- Contributing to the open-source ecosystem
+- Creating developer-friendly tools under the [Rabbit Company GitHub organization](https://github.com/Rabbit-Company)
 
----
+## 📊 GitHub Stats
 
-### 📺 YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Making NiceHash Stats with C# Console Application](https://www.youtube.com/watch?v=UjtWdawkqnE)
-- [Simple Number Game made with C#](https://www.youtube.com/watch?v=KYm71g5gjMU)
-- [How to hack any game with C++ Tutorial](https://www.youtube.com/watch?v=7OQac7cUHsU)
-<!-- YOUTUBE:END -->
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="zigazajc007's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=zigazajc007&count_private=true&theme=tokyonight&showicons=true" />
-
-</details>
-
-[website]: https://rabbit-company.com
-[youtube]: https://www.youtube.com/channel/UC2vr_LGj5bccNsYXBzDJDyg
-[instagram]: https://instagram.com/ziga.zajc007
-[linkedin]: https://linkedin.com/in/žiga-zajc-5812801b7
+<img align="left" alt="zigazajc007's GitHub Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zigazajc007&count_private=true&theme=tokyonight&showicons=true&include_orgs=true" />
